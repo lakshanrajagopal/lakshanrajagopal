@@ -161,7 +161,7 @@ Short description of what this project does and the problem it solves.
 
 - 🐙 **GitHub:** [github.com/lakshanrajagopal](https://github.com/lakshanrajagopal)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lakshan-rajagopal/
-- 📧 **Email:** add your email here
+- 📧 **Email:** lakshanrajagopal2008@gmail.com
 
 <!-- To turn the placeholders into clickable badges later, use:
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
